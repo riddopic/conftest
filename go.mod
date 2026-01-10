@@ -1,6 +1,6 @@
 module github.com/open-policy-agent/conftest
 
-go 1.17
+go 1.23.0
 
 require (
 	cuelang.org/go v0.4.0
@@ -97,7 +97,7 @@ require (
 	github.com/zclconf/go-cty v1.8.1 // indirect
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/net v0.0.0-20211111083644-e5c967477495 // indirect
-	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 // indirect
 	golang.org/x/text v0.3.7 // indirect
